@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1544702967 source:d:\izami\struktur data\queue final\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<iomanip>
+
